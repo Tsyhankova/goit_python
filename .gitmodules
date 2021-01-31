@@ -1,0 +1,3 @@
+[submodule "Lesson_1/goit-python"]
+	path = Lesson_1/goit-python
+	url = https://github.com/Tsyhankova/goit-python.git
